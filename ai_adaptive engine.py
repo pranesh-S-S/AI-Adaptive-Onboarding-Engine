@@ -32,7 +32,7 @@ if not GROQ_API_KEY:
     )
 
 client     = Groq(api_key=GROQ_API_KEY)
-GROQ_MODEL = "llama-3.3-70b-versatile"    # latest free model on Groq
+GROQ_MODEL = "llama-3.1-8b-instant"  # latest free model on Groq
 
 
 # ── GROQ CALLER ───────────────────────────────────────────────────────────────
