@@ -2,6 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Download Here
+https://drive.google.com/drive/folders/12__tkO0EtIka69FQm8QE8z2DySkZ1r1t?usp=sharing
+
 ## 📝 Description
 
 The AI-Adaptive Onboarding Engine is a sophisticated platform designed to revolutionize how professionals prepare for new roles. By leveraging advanced Natural Language Processing (NLP) and Machine Learning (ML), the engine meticulously analyzes a user's resume alongside target job descriptions to pinpoint specific skill gaps with surgical precision. Instead of generic training modules, it generates a hyper-personalized, step-by-step learning roadmap that prioritizes critical missing competencies. This targeted approach accelerates the journey to job readiness, optimizes learning efficiency, and eliminates the time wasted on redundant training, ensuring that every minute spent learning directly contributes to career success.
