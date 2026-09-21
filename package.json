@@ -1,0 +1,7 @@
+{
+  "name": "ai-adaptive-onboarding",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd AI-Adaptive-Onboarding-Engine/frontend && npm install && npm run build && cd ../.. && rm -rf dist && cp -R AI-Adaptive-Onboarding-Engine/frontend/dist ."
+  }
+}
