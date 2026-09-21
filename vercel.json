@@ -6,20 +6,16 @@
       "config": {
         "distDir": "dist"
       }
-    },
-    {
-      "src": "AI-Adaptive-Onboarding-Engine/backend/api.py",
-      "use": "@vercel/python"
     }
   ],
   "rewrites": [
     {
-      "source": "/analyze",
-      "destination": "/AI-Adaptive-Onboarding-Engine/backend/api.py"
+      "source": "/(.*)\\.(.*)",
+      "destination": "/AI-Adaptive-Onboarding-Engine/frontend/$1.$2"
     },
     {
       "source": "/(.*)",
-      "destination": "/AI-Adaptive-Onboarding-Engine/frontend/$1"
+      "destination": "/AI-Adaptive-Onboarding-Engine/frontend/index.html"
     }
   ]
 }
